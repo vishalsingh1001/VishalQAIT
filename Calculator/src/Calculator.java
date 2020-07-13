@@ -8,7 +8,7 @@ class Calculator{
 	public static void main(String[] args)
 	{
 		sc = new Scanner(System.in);
-		System.out.println("For Addition press 1");
+		System.out.println("For Add press 1");
 		System.out.println("For Subtraction press 2");
 		System.out.println("For Multiplication press 3");
 		System.out.println("For Division press 4");
